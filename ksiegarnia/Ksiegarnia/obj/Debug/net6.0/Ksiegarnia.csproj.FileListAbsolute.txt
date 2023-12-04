@@ -1,0 +1,5 @@
+P:\dotNET\repo-Dejw\ksiegarnia\Ksiegarnia\obj\Debug\net6.0\Ksiegarnia.csproj.AssemblyReference.cache
+P:\dotNET\repo-Dejw\ksiegarnia\Ksiegarnia\obj\Debug\net6.0\Ksiegarnia.GeneratedMSBuildEditorConfig.editorconfig
+P:\dotNET\repo-Dejw\ksiegarnia\Ksiegarnia\obj\Debug\net6.0\Ksiegarnia.AssemblyInfoInputs.cache
+P:\dotNET\repo-Dejw\ksiegarnia\Ksiegarnia\obj\Debug\net6.0\Ksiegarnia.AssemblyInfo.cs
+P:\dotNET\repo-Dejw\ksiegarnia\Ksiegarnia\obj\Debug\net6.0\Ksiegarnia.csproj.CoreCompileInputs.cache
