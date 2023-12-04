@@ -8,5 +8,8 @@ namespace Ksiegarnia.Model
 {
     internal class Transakcja
     {
+        // pola Transakcja
+        // konstruktor książki
+        // podstawowa logika 
     }
 }

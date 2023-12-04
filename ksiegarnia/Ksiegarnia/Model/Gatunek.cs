@@ -8,5 +8,8 @@ namespace Ksiegarnia.Model
 {
     internal class Gatunek
     {
+        // pola Gatunek
+        // konstruktor książki
+        // podstawowa logika 
     }
 }

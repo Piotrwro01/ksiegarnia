@@ -6,7 +6,10 @@ using System.Threading.Tasks;
 
 namespace Ksiegarnia.Model
 {
-    internal class Ksiazka
+    public class Ksiazka
     {
+        // pola Książki
+        // konstruktor książki
+        // podstawowa logika książki np. Poprawna forma tytułu, poprawnie nadanie ceny, zmiana ceny
     }
 }

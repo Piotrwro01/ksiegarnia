@@ -8,5 +8,6 @@ namespace Ksiegarnia.Controller
 {
     internal class ZasymulujaBazeGatunkow
     {
+        // symulacja bazy gatunków jak z książkami
     }
 }

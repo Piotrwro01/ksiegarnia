@@ -8,5 +8,10 @@ namespace Ksiegarnia.Controller
 {
     internal class KontrolerTransakcjiKupnaSprzedazy
     {
+        // logika kupowania sprzedawnia książek
+        // obsługuje transakcje
+        // obsługuje stan książek
+        // obsługuje stan konta
+
     }
 }
